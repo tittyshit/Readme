@@ -17,6 +17,8 @@
         <li><strong>Java
         <li><strong>SQL
         <li><strong>C++
+        <li><strong>python
+and ruby i think
     </ul>
 
     <h2>What I'm Working On:</h2>
