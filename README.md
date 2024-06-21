@@ -11,13 +11,12 @@
 
     <h2>Languages I've Learned:</h2>
     <ul>
-        <li><strong>HTML</strong>
-        <li><strong>JavaScript</strong>
-        <li><strong>PHP &amp; CSS</strong>
-        <li><strong>Java</strong>
-        <li><strong>SQL</strong>
-        <li><strong>C++</strong>
-        <li><strong>Git &amp; GitHub</strong>: For version control and collaboration.</li>
+        <li><strong>HTML
+        <li><strong>JavaScript
+        <li><strong>PHP &amp; CSS
+        <li><strong>Java
+        <li><strong>SQL
+        <li><strong>C++
     </ul>
 
     <h2>What I'm Working On:</h2>
