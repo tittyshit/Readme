@@ -21,8 +21,8 @@
 and ruby i think
     </ul>
 
-    <h2>What I'm Working On:</h2>
-    <p>I like to work on roblox revivals uhhhhhhhhhhhhhh hi.</p>
+    <h2>what i like to work on</h2>
+    <p>I like to work on roblox revivals uhhhhhhhhhhhhhh hi. iwill ralease some repos i've worked to help revivals and other stuff</p>
 
     <p>Fuck you</p>
 </body>
